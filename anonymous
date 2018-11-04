@@ -1,0 +1,42 @@
+DOMAIN:   www.anonymous
+NS1:      ns1.opennic.anonymous     | 217.144.132.148 | 2a02:a00:2000:22::1
+NS2:      ns2.opennic.anonymous     | 217.144.132.169 | 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-09-29 23:00:00
+changed:  2018-09-29 23:59:59
+---------------------------------------------------------------------------
+DOMAIN:   nic.anonymous
+NS1:      ns1.opennic.anonymous     | 217.144.132.148 | 2a02:a00:2000:22::1
+NS2:      ns2.opennic.anonymous     | 217.144.132.169 | 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-09-29 23:00:00
+changed:  2018-09-29 23:59:59
+---------------------------------------------------------------------------
+DOMAIN:   opennic.anonymous
+NS1:      ns1.opennic.anonymous     | 217.144.132.148 | 2a02:a00:2000:22::1
+NS2:      ns2.opennic.anonymous     | 217.144.132.169 | 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-09-29 23:00:00
+changed:  2018-09-29 23:59:59
+---------------------------------------------------------------------------
+DOMAIN:   irc.anonymous
+NS1:      ns1.opennic.anonymous     | 217.144.132.148 | 2a02:a00:2000:22::1
+NS2:      ns2.opennic.anonymous     | 217.144.132.169 | 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-09-29 23:00:00
+changed:  2018-09-29 23:59:59
+---------------------------------------------------------------------------
+DOMAIN:   ipv6.anonymous
+NS1:      ns1.opennic.anonymous     | 217.144.132.148 | 2a02:a00:2000:22::1
+NS2:      ns2.opennic.anonymous     | 217.144.132.169 | 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-09-29 23:00:00
+changed:  2018-09-29 23:59:59
+---------------------------------------------------------------------------
+DOMAIN:   ipv4.anonymous
+NS1:      ns1.opennic.anonymous     | 217.144.132.148 | 2a02:a00:2000:22::1
+NS2:      ns2.opennic.anonymous     | 217.144.132.169 | 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-09-29 23:00:00
+changed:  2018-09-29 23:59:59
+---------------------------------------------------------------------------
