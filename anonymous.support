@@ -1,0 +1,38 @@
+DOMAIN:   anonymous.support.
+NS1:      ns1.anonymous.support     | 192.174.68.104 / 2001:67c:1bc::104
+NS2:      ns2.anonymous.support     | 176.97.158.104 / 2001:67c:10b8::104
+NS3:      ns3.anonymous.support     | 46.165.212.97  / 2a00:c98:2100:a006:3::1
+NS4:      ns4.anonymous.support     | 95.211.1.145   / 2001:1af8:4400:a048:1::1
+NS5:      ns5.anonymous.support     | 108.59.8.65    / 2604:9a00:2010:a013:1::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-11-03 21:59:02
+upd-date: 2018-11-04 00:26:31
+out-date: 2019-11-03 21:59:02
+---
+DOMAIN:   www.anonymous.support
+NS1:      ns1.anonymous.support     | 192.174.68.104 / 2001:67c:1bc::104
+NS2:      ns2.anonymous.support     | 176.97.158.104 / 2001:67c:10b8::104
+NS3:      ns3.anonymous.support     | 46.165.212.97  / 2a00:c98:2100:a006:3::1
+NS4:      ns4.anonymous.support     | 95.211.1.145   / 2001:1af8:4400:a048:1::1
+NS5:      ns5.anonymous.support     | 108.59.8.65    / 2604:9a00:2010:a013:1::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-11-03 21:59:02
+upd-date: 2018-11-04 00:26:31
+out-date: 2019-11-03 21:59:02
+---
+DOMAIN:   de.anonymous.support
+NS1:      a.anonymous.support       | 217.144.132.148 / 2a02:a00:2000:22::1
+NS2:      b.anonymous.support       | 217.144.132.169 / 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-11-03 21:59:02
+upd-date: 2018-11-04 00:26:31
+out-date: 2019-11-03 21:59:02
+---
+DOMAIN:   berlin.de.anonymous.support
+NS1:      a.anonymous.support       | 217.144.132.148 / 2a02:a00:2000:22::1
+NS2:      b.anonymous.support       | 217.144.132.169 / 2a02:a00:2000:3b::1
+e-mail:   info@anonymous.gratis
+reg-date: 2018-11-03 21:59:02
+upd-date: 2018-11-04 00:26:31
+out-date: 2019-11-03 21:59:02
+---
