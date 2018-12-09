@@ -4,7 +4,8 @@ NS2:      b.dns.anonymous.support     | 217.144.135.7 / 2a02:a00:2000:22::2
 NS3:      c.dns.anonymous.support     | 217.144.132.169  / 2a02:a00:2000:3b::1
 NS4:      d.dns.anonymous.support     | 217.144.135.2   / 2a02:a00:2000:3b::2
 NS5:
-e-mail:   info@anonymous.support
+consumer: Anonymous Support
+reg-mail:   info@anonymous.support
 reg-date: 2018-11-03 21:59:02
 upd-date: 2018-12-09 03:14:57
 out-date: 2019-11-03 21:59:02
