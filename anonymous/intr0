@@ -1,0 +1,12 @@
+DOMAIN:   intr0.anonymous.
+NS1:      ns3.ca.dns.opennic.glue
+NS2:      ns4.ca.dns.opennic.glue
+NS3:      -
+NS4:      -
+NS5:      -
+redirect: -
+consumer: intr0
+reg-mail: admin@intr0.com
+reg-date: 2019-02-21 08:14:00
+chg-date: 2019-02-22 05:52:00
+exp-date: 2020-12-31 23:59:59
